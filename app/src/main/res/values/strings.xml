@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FLashLight</string>
+    <string name="turnon">Turn On</string>
+    <string name="main_image">main image</string>
+    <string name="turn_on">Turn On</string>
+    <string name="turnoff">Turn Off</string>
+</resources>
